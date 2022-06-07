@@ -1,3 +1,2 @@
-# dio-desafio-repositorio
-Desafio de Git/GitHub 
+# dio-desafio-repositorio 
 Esse repositório servirá para anotações futuras :) 
